@@ -1,1 +1,1 @@
-# Authorization
+Авторизация с использованием JWT Token
